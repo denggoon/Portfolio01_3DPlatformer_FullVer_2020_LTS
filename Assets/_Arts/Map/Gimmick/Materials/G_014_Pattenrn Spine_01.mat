@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: G_014_Pattenrn Spine_01
+  m_Shader: {fileID: 4800000, guid: 1bb4aa23dde46244184e09f17dd0056b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _Main_Tex
+        second:
+          m_Texture: {fileID: 2800000, guid: ac0c08b6dbe8f9f42a7bcab5aa94852f, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube_Tex
+        second:
+          m_Texture: {fileID: 8900000, guid: b0b63331c4005204a834e987f2def7f7, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Gloss
+        second: .349999994
+      data:
+        first:
+          name: _Cube_intensity
+        second: .699999988
+      data:
+        first:
+          name: _Cube_Power
+        second: 3.5
+      data:
+        first:
+          name: _Spec_Intensity
+        second: .300000012
+      data:
+        first:
+          name: _Rim_Power
+        second: 2.5
+    m_Colors:
+      data:
+        first:
+          name: _Main_Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _Rim_Color
+        second: {r: .329411775, g: .376470596, b: .466666669, a: 1}

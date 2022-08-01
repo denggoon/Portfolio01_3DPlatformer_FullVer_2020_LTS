@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &158900
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 437118}
+  - 114: {fileID: 11442122}
+  m_Layer: 0
+  m_Name: _ShadersList
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &437118
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 158900}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11442122
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 158900}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19ea399a7101c174a99b180ae0e8c96e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shaderList:
+  - {fileID: 4800000, guid: 5a6adb6333c29e442bfc535a1813ad81, type: 3}
+  - {fileID: 4800000, guid: 9f506cc266c75481f965cc0164caaeea, type: 3}
+  - {fileID: 4800000, guid: ac96f5c0b697340a887ac2bd77a0bddc, type: 3}
+  - {fileID: 4800000, guid: d8d6ff31d7035834f8d56c6dd8a61c7d, type: 3}
+  - {fileID: 200, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: List.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: shaderList.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: List.Array.data[0]
+      value: 
+      objectReference: {fileID: 4800000, guid: 5a6adb6333c29e442bfc535a1813ad81, type: 3}
+    - target: {fileID: 0}
+      propertyPath: List.Array.data[1]
+      value: 
+      objectReference: {fileID: 4800000, guid: d8d6ff31d7035834f8d56c6dd8a61c7d, type: 3}
+    - target: {fileID: 0}
+      propertyPath: shaderList.Array.data[4]
+      value: 
+      objectReference: {fileID: 200, guid: 0000000000000000f000000000000000, type: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 158900}
+  m_IsPrefabParent: 1

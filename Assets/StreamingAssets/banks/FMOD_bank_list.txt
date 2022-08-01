@@ -1,0 +1,8 @@
+Amb2D_00.bank
+Amb3D_00.bank
+FX_Mon_00.bank
+FX_Object_00.bank
+FX_PC_00.bank
+Music_00.bank
+UIS_00.bank
+UIS_00.strings.bank

@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 50581213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16adc2d22cac11c49449c661fe432ad8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 441bd64264e0b4151cb179d2d2c52ae2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 15
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34f7d0a0ee3f1e44eb7d53a6a342e343, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 898569848914d964b839f77440f2b2ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54b626f582f1c064e84e65c146e75caf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66e3f908324d9da4e990b63577ab0ae5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2cd50b88406a9bb49afcb1d3d1c8160b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 55287b6a47d58a34a949ca0062810105, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 119
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/_Instantiatables/Resources/players/tt.prefab
+- Assets/Prefabs/_Instantiatables/Bundles/players/tt.prefab
+Dependencies: []

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1463612043
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a55941c8121d78423538a6bf1bfb510
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e4aa049d90762dfc526c7c2fcbb45a14
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e99c6515d33a8794daaa17f81968a910, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Resources/fxs/Fx_Sparkling_01.prefab
+Dependencies: []

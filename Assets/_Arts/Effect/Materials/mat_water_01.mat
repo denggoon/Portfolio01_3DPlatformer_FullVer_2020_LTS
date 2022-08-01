@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: mat_water_01
+  m_Shader: {fileID: 4800000, guid: 06c002ac7c02363448cbef8846846f03, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailNormalMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Main_Tex
+        second:
+          m_Texture: {fileID: 2800000, guid: b8895d5d013935845b500e8bcd2facd3, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Mask_Tex
+        second:
+          m_Texture: {fileID: 2800000, guid: 25810b49ccdddce4fb25a25e8d4032e8, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Second_TexUV2
+        second:
+          m_Texture: {fileID: 2800000, guid: 09e57bc0440fe6344b124dd7033f8da8, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _OcclusionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EmissionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailMask
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailAlbedoMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MetallicGlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MasK_Tex
+        second:
+          m_Texture: {fileID: 2800000, guid: 80c00aaa171a2c941b324d98d0cadfa6, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Shiny_Tex1
+        second:
+          m_Texture: {fileID: 2800000, guid: 5233be5d16c7e3e43821d8e567b4b2c6, type: 3}
+          m_Scale: {x: 1, y: .800000012}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Shiny_Tex2
+        second:
+          m_Texture: {fileID: 2800000, guid: 5233be5d16c7e3e43821d8e567b4b2c6, type: 3}
+          m_Scale: {x: 1, y: .699999988}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Specular_Tex
+        second:
+          m_Texture: {fileID: 2800000, guid: eb21e9496f7b5e94c9b72a3be1fce312, type: 3}
+          m_Scale: {x: 1.5, y: 2}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _spec2
+        second:
+          m_Texture: {fileID: 2800000, guid: e26691e057aefc745a205139512cffb4, type: 3}
+          m_Scale: {x: 1, y: 2}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _SrcBlend
+        second: 1
+      data:
+        first:
+          name: _DstBlend
+        second: 0
+      data:
+        first:
+          name: _Cutoff
+        second: .5
+      data:
+        first:
+          name: _Parallax
+        second: .0199999996
+      data:
+        first:
+          name: _ZWrite
+        second: 1
+      data:
+        first:
+          name: _Glossiness
+        second: .5
+      data:
+        first:
+          name: _BumpScale
+        second: 1
+      data:
+        first:
+          name: _OcclusionStrength
+        second: 1
+      data:
+        first:
+          name: _DetailNormalMapScale
+        second: 1
+      data:
+        first:
+          name: _UVSec
+        second: 0
+      data:
+        first:
+          name: _Mode
+        second: 0
+      data:
+        first:
+          name: _Metallic
+        second: 0
+      data:
+        first:
+          name: _X_speed
+        second: 0
+      data:
+        first:
+          name: _Y_speed
+        second: 1
+      data:
+        first:
+          name: _X_speed2
+        second: 0
+      data:
+        first:
+          name: _Y_speed2
+        second: .800000012
+      data:
+        first:
+          name: _x
+        second: 0
+      data:
+        first:
+          name: _y
+        second: .5
+    m_Colors:
+      data:
+        first:
+          name: _EmissionColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _Main_Color
+        second: {r: 1, g: 1, b: 1, a: 1}

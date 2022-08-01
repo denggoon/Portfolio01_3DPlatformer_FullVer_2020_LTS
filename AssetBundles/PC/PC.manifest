@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: commonprefabs
+      Dependencies:
+        Dependency_0: fxs/explosion_22
+        Dependency_1: fxs/explosion_12
+        Dependency_2: fxs/sparkling_02
+        Dependency_3: item/exitprefab
+        Dependency_4: item/startprefab
+        Dependency_5: fxs/sparkling_01
+        Dependency_6: fxs/explosion_24
+        Dependency_7: players/mary
+        Dependency_8: item/droppablegold
+        Dependency_9: _shaderlist
+        Dependency_10: players/tt
+    Info_1:
+      Name: fxs/explosion_22
+      Dependencies: {}
+    Info_2:
+      Name: fxs/explosion_12
+      Dependencies: {}
+    Info_3:
+      Name: fxs/sparkling_02
+      Dependencies: {}
+    Info_4:
+      Name: item/exitprefab
+      Dependencies: {}
+    Info_5:
+      Name: item/startprefab
+      Dependencies: {}
+    Info_6:
+      Name: fxs/sparkling_01
+      Dependencies: {}
+    Info_7:
+      Name: fxs/explosion_24
+      Dependencies: {}
+    Info_8:
+      Name: players/mary
+      Dependencies: {}
+    Info_9:
+      Name: item/droppablegold
+      Dependencies: {}
+    Info_10:
+      Name: _shaderlist
+      Dependencies: {}
+    Info_11:
+      Name: players/tt
+      Dependencies: {}
+    Info_12:
+      Name: samplescene
+      Dependencies: {}
+    Info_13:
+      Name: fxs/fx_pc_landing_01
+      Dependencies: {}

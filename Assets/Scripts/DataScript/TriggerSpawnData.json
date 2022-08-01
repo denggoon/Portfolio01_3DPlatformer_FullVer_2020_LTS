@@ -1,0 +1,33 @@
+[
+    {
+        "sceneName": "alpha_2_1",
+	"spawnData": [
+            {
+                "markerName": "M_S_1",
+                "prefabName": "D_M_001_Mo"
+            },
+            {
+                "markerName": "M_S_2",
+                "prefabName": "D_M_001_Mo"
+            },
+            {
+                "markerName": "M_S_3",
+                "prefabName": "D_M_001_Mo"
+            },
+            {
+                "markerName": "M_S_4",
+                "prefabName": "D_M_001_Mo"
+            }
+        ]
+    },
+    {
+        "sceneName": "PlayGround",
+        "spawnData": [
+            {
+                "markerName": "test",
+                "prefabName": "D_M_001_Mo",
+                "routeName": "route_box"
+            }
+        ]
+    }
+]

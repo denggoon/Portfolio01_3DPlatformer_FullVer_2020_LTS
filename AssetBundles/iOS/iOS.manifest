@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: commonprefabs
+      Dependencies:
+        Dependency_0: _shaderlist
+    Info_1:
+      Name: item/exitprefab
+      Dependencies: {}
+    Info_2:
+      Name: item/startprefab
+      Dependencies: {}
+    Info_3:
+      Name: fxs/sparkling_01
+      Dependencies: {}
+    Info_4:
+      Name: item/droppablegold
+      Dependencies: {}
+    Info_5:
+      Name: _shaderlist
+      Dependencies: {}
+    Info_6:
+      Name: players/tt
+      Dependencies: {}
+    Info_7:
+      Name: samplescene
+      Dependencies: {}
+    Info_8:
+      Name: fxs/fx_pc_landing_01
+      Dependencies: {}

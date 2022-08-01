@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Gem_01
+  m_Shader: {fileID: 4800000, guid: 7d39214640e0c044d9d7f853c01cef6e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: aaba8f6e4f5a0c5449f15d20c64858f3, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube_Tex
+        second:
+          m_Texture: {fileID: 8900000, guid: b0b63331c4005204a834e987f2def7f7, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Main_Tex
+        second:
+          m_Texture: {fileID: 2800000, guid: aaba8f6e4f5a0c5449f15d20c64858f3, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Main_tex
+        second:
+          m_Texture: {fileID: 2800000, guid: aaba8f6e4f5a0c5449f15d20c64858f3, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Scroll_tex
+        second:
+          m_Texture: {fileID: 2800000, guid: 30646403aa4d98a42b83b970b03a7cf1, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .709838927
+      data:
+        first:
+          name: _Gloss
+        second: .5
+      data:
+        first:
+          name: _Cube_intensity
+        second: .568000019
+      data:
+        first:
+          name: _Cube_Power
+        second: 2.1500001
+      data:
+        first:
+          name: _Spec_Intensity
+        second: .787388027
+      data:
+        first:
+          name: _Rim_power
+        second: 3.93000007
+      data:
+        first:
+          name: _Rim_intensity
+        second: 1.57000005
+      data:
+        first:
+          name: _RimPower
+        second: 4.07142878
+      data:
+        first:
+          name: _Rim_Power
+        second: 20
+      data:
+        first:
+          name: _Rim_Intensity
+        second: 5
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .683823526, g: .683823526, b: .683823526, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 1, g: .641379297, b: 0, a: 1}
+      data:
+        first:
+          name: _Main_Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _Rim_color
+        second: {r: .0882353187, g: .849087119, b: 1, a: 1}
+      data:
+        first:
+          name: _RimColor
+        second: {r: 0, g: .793103218, b: 1, a: 0}
+      data:
+        first:
+          name: _Rim_Color
+        second: {r: .838235319, g: .912981689, b: 1, a: 1}

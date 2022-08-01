@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3456508311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b58077c9841f18b31be07ee3b118d54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fa19488afd0985130a613effa6b387ca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e99c6515d33a8794daaa17f81968a910, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/_Instantiatables/Bundles/fxs/sparkling_02.prefab
+Dependencies: []

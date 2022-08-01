@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a98c6ee2267f55449989efcffc247e5f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - itemTrigger: {instanceID: 0}
+  - destroyFx: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

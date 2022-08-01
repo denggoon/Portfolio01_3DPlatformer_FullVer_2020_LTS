@@ -1,0 +1,285 @@
+{
+"template_revision": 0,
+"revision": "$Rev$",
+"root": [
+{
+"soundID" : "SND_BGM_ITEM_INVINCIBLE"
+, "eventPath" : "BGM_Cond/BGM_RainbowStar"
+}
+,
+{
+"soundID" : "SND_BGM_1_1"
+, "eventPath" : "BGM/BGM_Morning"
+}
+,
+{
+"soundID" : "SND_BGM_1_2"
+, "eventPath" : "BGM/BGM_Morning"
+}
+,
+{
+"soundID" : "SND_BGM_1_3"
+, "eventPath" : "BGM/BGM_Afternoon"
+}
+,
+{
+"soundID" : "SND_BGM_1_4"
+, "eventPath" : "BGM/BGM_Night"
+}
+,
+{
+"soundID" : "SND_BGM_1_5"
+, "eventPath" : "BGM/BGM_Morning"
+}
+,
+{
+"soundID" : "SND_BGM_1_6"
+, "eventPath" : "BGM/BGM_Morning"
+}
+,
+{
+"soundID" : "SND_BGM_1_7"
+, "eventPath" : "BGM/BGM_Afternoon"
+}
+,
+{
+"soundID" : "SND_BGM_1_8"
+, "eventPath" : "BGM/BGM_Night"
+}
+,
+{
+"soundID" : "SND_JGL_GAMEOVER"
+, "eventPath" : "Jingle/GameOver"
+}
+,
+{
+"soundID" : "SND_JGL_GAMECLEAR"
+, "eventPath" : "Jingle/GameClear"
+}
+,
+{
+"soundID" : "SND_UI_BTN_CMN_TOUCH"
+, "eventPath" : "UISound_2D/Button_Touch"
+}
+,
+{
+"soundID" : "SND_UI_BTN_START_TOUCH"
+, "eventPath" : "UISound_2D/StartButton_Touch"
+}
+,
+{
+"soundID" : "SND_UI_EVT_GAMESTART"
+, "eventPath" : "UISound_2D/GameStart"
+}
+,
+{
+"soundID" : "SND_GMK_002_TOUCH"
+, "eventPath" : "Object/Downplatform_Touch"
+}
+,
+{
+"soundID" : "SND_GMK_002_DOWN"
+, "eventPath" : "Object/Downplatform_Down"
+}
+,
+{
+"soundID" : "SND_GMK_003_MOVE"
+, "eventPath" : "Object/Moveplatform_Move"
+}
+,
+{
+"soundID" : "SND_GMK_004_LOOP"
+, "eventPath" : "Object/RunningMachine"
+}
+,
+{
+"soundID" : "SND_GMK_005_PLAY_001"
+, "eventPath" : "Object/Ironmace_play_1"
+}
+,
+{
+"soundID" : "SND_GMK_005_PLAY_002"
+, "eventPath" : "Object/Ironmace_play_2"
+}
+,
+{
+"soundID" : "SND_GMK_006_LOOP"
+, "eventPath" : "Object/RotatingPlatform"
+}
+,
+{
+"soundID" : "SND_GMK_009_PLAY"
+, "eventPath" : "Object/Jumppad_play"
+}
+,
+{
+"soundID" : "SND_GMK_007_ON"
+, "eventPath" : "Object/Timerblock_On"
+}
+,
+{
+"soundID" : "SND_GMK_007_OFF"
+, "eventPath" : "Object/Timerblock_Off"
+}
+,
+{
+"soundID" : "SND_GMK_008_PLAY"
+, "eventPath" : "Object/Crossing_Play"
+}
+,
+{
+"soundID" : "SND_MON_FIND"
+, "eventPath" : "Monster/Monster_Find"
+}
+,
+{
+"soundID" : "SND_MON_DESPAWN"
+, "eventPath" : "Monster/Monster_Despawn"
+}
+,
+{
+"soundID" : "SND_MON_HIT"
+, "eventPath" : "Monster/Mon_Hit"
+}
+,
+{
+"soundID" : "SND_MON_001_MOVE"
+, "eventPath" : "Monster/Mo_Move"
+}
+,
+{
+"soundID" : "SND_MON_001_DAMAGE"
+, "eventPath" : "Monster/Mo_Damage"
+}
+,
+{
+"soundID" : "SND_MON_002_SHOOT"
+, "eventPath" : "Monster/BO_Shoot"
+}
+,
+{
+"soundID" : "SND_MON_002_SHOOT_MOVE"
+, "eventPath" : "Monster/Bo_Shoot_Move"
+}
+,
+{
+"soundID" : "SND_MON_002_DAMAGE"
+, "eventPath" : "Monster/BO_Damage"
+}
+,
+{
+"soundID" : "SND_PC_DAMAGE"
+, "eventPath" : "PC/Character_Damage"
+}
+,
+{
+"soundID" : "SND_PC_DAMAGE_DEATH"
+, "eventPath" : "PC/Character_DamageDeath"
+}
+,
+{
+"soundID" : "SND_PC_DOUBLE_JUMP"
+, "eventPath" : "PC/Character_DoubleJump"
+}
+,
+{
+"soundID" : "SND_PC_DOWN_DEATH"
+, "eventPath" : "PC/Character_DownDeath"
+}
+,
+{
+"soundID" : "SND_PC_JUMP"
+, "eventPath" : "PC/Character_Jump"
+}
+,
+{
+"soundID" : "SND_PC_LANDING"
+, "eventPath" : "PC/Character_Landing"
+}
+,
+{
+"soundID" : "SND_PC_MLANDING"
+, "eventPath" : "PC/Character_MLanding"
+}
+,
+{
+"soundID" : "SND_PC_MOVE"
+, "eventPath" : "PC/Character_Move"
+}
+,
+{
+"soundID" : "SND_ITM_COIN_GET"
+, "eventPath" : "UISound_2D/Coin_Get"
+}
+,
+{
+"soundID" : "SND_ITM_GEM_GET"
+, "eventPath" : "UISound_2D/Gem_Get"
+}
+,
+{
+"soundID" : "SND_ITM_CMN_GET"
+, "eventPath" : "UISound_2D/Item_Get"
+}
+,
+{
+"soundID" : "SND_FX_PORTAL_SPAWN"
+, "eventPath" : "UISound_3D/Portal_Spawn"
+}
+,
+{
+"soundID" : "SND_FX_PORTAL_DESPAWN"
+, "eventPath" : "UISound_3D/Portal_Despawn"
+}
+,
+{
+"soundID" : "SND_AMB_W1S1"
+, "eventPath" : "Amb2D/SkyIsland_Morning"
+}
+,
+{
+"soundID" : "SND_AMB_W1S2"
+, "eventPath" : "Amb2D/SkyIsland_Morning"
+}
+,
+{
+"soundID" : "SND_AMB_W1S3"
+, "eventPath" : "Amb2D/SkyIsland_Afternoon"
+}
+,
+{
+"soundID" : "SND_AMB_W1S4"
+, "eventPath" : "Amb2D/SkyIsland_Night"
+}
+,
+{
+"soundID" : "SND_AMB_W1S5"
+, "eventPath" : "Amb2D/SkyIsland_Morning"
+}
+,
+{
+"soundID" : "SND_AMB_W1S6"
+, "eventPath" : "Amb2D/SkyIsland_Morning"
+}
+,
+{
+"soundID" : "SND_AMB_W1S7"
+, "eventPath" : "Amb2D/SkyIsland_Afternoon"
+}
+,
+{
+"soundID" : "SND_AMB_W1S8"
+, "eventPath" : "Amb2D/SkyIsland_Night"
+}
+,
+{
+"soundID" : "SND_AMB_WATERFALL"
+, "eventPath" : "Amb3D/Amb3d_Waterfall"
+}
+,
+{
+"soundID" : "SND_OBJ_001_TOUCH"
+, "eventPath" : "Object/Dandelion_Touch"
+}
+]
+}

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2737035885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eee923e59286c0063acfcf84080a6600
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dfa33a9d19c744e70987e2f40e1e6bf5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80dfd6a0d98f1534285514c9f1ddeb11, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 119
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/_Instantiatables/Resources/item/startprefab.prefab
+- Assets/Prefabs/_Instantiatables/Bundles/item/startprefab.prefab
+Dependencies: []

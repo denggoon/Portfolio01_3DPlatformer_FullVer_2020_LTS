@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: be56f02ceaeeda24f99727e7fd132bea
+timeCreated: 1441865035
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - transform: {instanceID: 0}
+  - enemyMovement: {instanceID: 0}
+  - visionCollider: {instanceID: 0}
+  - eyeTexture: {fileID: 2800000, guid: 1365028017bc7a843afe47e836457e30, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
