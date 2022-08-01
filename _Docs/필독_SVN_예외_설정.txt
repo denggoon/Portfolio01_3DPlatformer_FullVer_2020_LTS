@@ -1,0 +1,12 @@
+1. 유니티 설정 변경
+
+	- 유니티 프로젝트를 열어 > Edit > Project Settings > Editor 를 실행한다.
+	- Version Control 을 Vislble Meta Filies 로 변경한다.
+	- Asset Serialization > Force Text
+	- 프로젝트 저장
+
+2. SVN추가시 무시목록 등록
+
+Temp Library Obj *.csproj *.unityproj *.sln *.user *.userprefs *.pidb *.suo
+
+3. Asset /  ProjectSettings 폴더만 커밋
