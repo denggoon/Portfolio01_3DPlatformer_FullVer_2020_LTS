@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{738D1C3F-2C64-C556-1C39-A23156DCB454}</ProjectGuid>
+    <ProjectGuid>{DCE571C9-2CAF-EFD9-46F7-DD9C3F669C0F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>FMODUnity</AssemblyName>

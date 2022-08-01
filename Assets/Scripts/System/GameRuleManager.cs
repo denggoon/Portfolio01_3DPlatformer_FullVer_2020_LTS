@@ -107,15 +107,8 @@ public class GameRuleManager : MonoBehaviour {
 
 	void Start()
 	{
-		if(Application.isEditor)
-		{
-			Application.targetFrameRate = 60;
-		}
-
-		if (Application.platform == RuntimePlatform.IPhonePlayer) {
-			Application.targetFrameRate = 60;
-		}
-
+		Application.targetFrameRate = 60;
+		
 		BGMPath = "SND_BGM_" + SceneManager.GetActiveScene().name;
 		AmbientPath = "SND_AMB_" + SceneManager.GetActiveScene().name;
 

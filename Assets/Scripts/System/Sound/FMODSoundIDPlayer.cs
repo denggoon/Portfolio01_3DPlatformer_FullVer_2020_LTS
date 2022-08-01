@@ -26,7 +26,7 @@ public class FMODSoundIDPlayer : MonoBehaviour
 				emitter.StopEvent = EmitterGameEvent.ObjectDestroy;
 
 				emitter.EventReference.Guid = soundInfo.GUID;
-                emitter.EventReference.Path = "event:/" + soundInfo.eventPath;
+                //emitter.EventReference.Path = "event:/" + soundInfo.eventPath;
 
 			} else {
 				Debug.Log("null");
